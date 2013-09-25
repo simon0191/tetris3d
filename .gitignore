@@ -1,0 +1,12 @@
+# Rare files #
+*~
+
+# Build and dist files #
+*/build/
+*/dist/
+# Libraries src files and docs
+lib/
+
+# Private netbeans files #
+*/nbproject/private/
+
